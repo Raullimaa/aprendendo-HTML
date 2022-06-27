@@ -1,1 +1,2 @@
-Meus primeiros passos com HTML5, utilizando Visual Code.
+Meus primeiros passos com HTML5, utilizando Visual Code,
+ainda que engatinhando.
